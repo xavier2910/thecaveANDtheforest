@@ -6,3 +6,4 @@ The Forest I made as a sequel. It was going to be longer, but in the end I got b
 Try not to die and have fun!
 
 [The Tundra](https://github.com/xavier2910/thetundra) is a sequel that has stalled.
+[The Planet](https://github.com/xavier2910/theplanet) continues the story.
