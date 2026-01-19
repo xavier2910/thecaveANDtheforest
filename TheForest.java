@@ -5,7 +5,7 @@ public class TheForest
     {
         public static void main(String[] args)
         {
-            System.out.println("The Forest 1.1.0: A sequel to The Cave\n by Xavier\n\ntype the number of the option you want to \nchoose and press enter\n\n");
+            System.out.println("The Forest Java Edition 1.1.0: A sequel to The Cave\n by Xavier\n\ntype the number of the option you want to \nchoose and press enter\n\n");
             try
             {
                 Start();
@@ -583,4 +583,5 @@ public class TheForest
             WakeUpInSnow();
         }
     }
+
 
