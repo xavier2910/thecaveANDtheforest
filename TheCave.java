@@ -1,7 +1,7 @@
 import java.util.Scanner;
 import java.io.IOException;
 
-class TheCave {
+public class TheCave {
     public static void main(String[] args)
     {
 	System.out.println("The Cave Java Edition 1.1.0\n By Xavier\n\ntype the number of the option you want to choose and press enter\n\n");
